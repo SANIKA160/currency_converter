@@ -1,0 +1,53 @@
+.logo{
+    color:#230230;
+    text-align:center;
+    font-size:60px
+    
+    
+    }
+
+
+    body{  
+
+    background-color: darkslateblue;
+
+
+
+    }
+    select{
+        width: 50%;
+        
+    }
+    input{
+        width: 50%;
+    }
+
+    table{
+        width: 40%;
+        height: 40%;
+    }
+    button{
+        width: 50%;
+        height: 45%;
+    }
+    td{
+        width: 50%;
+    }
+    select:hover{
+        background-color: black;
+        color:azure;
+    }
+    input:hover{
+        background-color: blanchedalmond;
+        color: black;
+    }
+    button:hover{
+        background-color: black;
+        color: white;
+    }
+   
+    
+
+
+
+    
